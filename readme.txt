@@ -16,4 +16,6 @@ s fregit status
 #   (use "git add <file>..." to include in what will be committed)
 #dedeeeeeee
 #       LICENSE
-no changes added to commit (use "git add" and/or "gie software distributed under the GPL.
+no changefewwfes added to commit (use "git add" and/or "gie software distributed under the GPL.
+
+fjdfef

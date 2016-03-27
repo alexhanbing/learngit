@@ -18,6 +18,12 @@ s fregit status
 #       LICENSE
 no changefewwfes added to commit (use "git add" and/or "gie software distributed under the GPL.
 
+<<<<<<< HEAD
 fjdfef
 
 Creating a new branch in master
+=======
+fjdfef
+
+Creating a new branch in master 
+>>>>>>> feature1

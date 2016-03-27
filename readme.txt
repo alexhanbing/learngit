@@ -11,3 +11,5 @@ s fregit status
 
 
 --no--ff file branch
+git is a free software
+
